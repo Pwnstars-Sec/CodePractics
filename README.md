@@ -3,7 +3,7 @@ This is the code practice navigation warehouse of the Pwnstars security team. Th
 ## A的代码练习仓库：
 https://github.com/Aaaa-an/codepractise
 ## N1的代码练习仓库：
-https://github.com/Pwnstars-Sec/CodePractics
+https://github.com/PwnPwnstar-n1/Project-code
 ## Hugo的代码练习仓库：
 
 ## Gnaw的代码练习仓库：
