@@ -5,6 +5,7 @@ https://github.com/Aaaa-an/codepractise
 ## N1的代码练习仓库：
 https://github.com/PwnPwnstar-n1/Project-code
 ## Hugo的代码练习仓库：
+https-github.com-Pwnstars-Hugo-project-code
 
 ## Gnaw的代码练习仓库：
 
